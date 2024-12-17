@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+// take a state and keep the value in it and use if else to display data
 const App11 = () => {
     const [check, setCheck] = useState(3);
     return (
